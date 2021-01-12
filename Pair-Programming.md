@@ -18,3 +18,18 @@ The `jQuery()` selector is often called with `$()` and can find elements using C
 It can also append methods to those objects `('selector').method('parameter');`
 
 jQuery allows you to do common tasks in less code than vanilla JavaScript. 
+
+A returned querey object is called a *matched set* or a *jquerey selection*.
+
+Methods can both get and set data.
+
+jQuery objects store references to elements, not copies of the elements. This is good! 
+
+*Implicit iteration* allows you to loop through all matching objects in a query. 
+
+*Chaining* allows you to attach multiple methods on a single selection.
+
+## Methods
+`each()` loops a selection of elements
+  `this` or `$(this)` allow you to access the element 
+ `.on()` handles event methods
