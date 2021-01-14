@@ -23,8 +23,6 @@ Grid Track: space between adjacent grid lines
 
 Grid area: total space surrounded by four grid lines
 
-Grid Item: childen (direct discendents) of the grid container. `sub-item` can live inside 
+Grid Item: childen (direct descendants) of the grid container. `sub-item` can live inside 
 
-grid cell: spac between two adjcent grid lines. *single unit* of the grid
-
-
+grid cell: space between two adjacent grid lines. *single unit* of the grid
