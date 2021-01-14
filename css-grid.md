@@ -10,10 +10,21 @@ Grid is applied both to parent (*Grid container*) elements and children (*Grid i
 Grid is actually designed for layout from the ground up. Phew. 
 
 how-to: 
-  `<div class="container">
-    `<div class="item item-1"> </div>
-    `<div class="item item-2"> </div>
-    `<div class="item item-3"> </div>
-  `</div>
-  
-  
+
+    <div class="container">
+      <div class="item item-1"> </div>
+      <div class="item item-2"> </div>
+      <div class="item item-3"> </div>
+    </div>
+    
+Grid line: dividing line that makes up the structure of the grid. Row or Column.
+
+Grid Track: space between adjacent grid lines
+
+Grid area: total space surrounded by four grid lines
+
+Grid Item: childen (direct discendents) of the grid container. `sub-item` can live inside 
+
+grid cell: spac between two adjcent grid lines. *single unit* of the grid
+
+
