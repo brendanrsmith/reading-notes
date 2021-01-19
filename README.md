@@ -13,3 +13,5 @@ Notes, excerpts, and thoughts from class readings.
 [Read 05 - Heroku](heroku.md)
 
 [Read 06 - Node.js](nodeJS.md)
+
+[Read 07 - APIs](APIs.md)
