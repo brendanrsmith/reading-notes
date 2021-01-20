@@ -15,3 +15,5 @@ Notes, excerpts, and thoughts from class readings.
 [Read 06 - Node.js](nodeJS.md)
 
 [Read 07 - APIs](APIs.md)
+
+[Read 08 - SQL](sql.md)
