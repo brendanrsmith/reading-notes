@@ -17,3 +17,5 @@ Notes, excerpts, and thoughts from class readings.
 [Read 07 - APIs](APIs.md)
 
 [Read 08 - SQL](sql.md)
+
+[Read 09 - Refactoring](refactoring.md)
