@@ -14,10 +14,10 @@ we use `SELECT` to retreive dat from a sql database.
   // this is a quick way to dump all the data from a given table
 ### WHERE constraints
 `WHERE` is a clause that is applied to each row. Like a filter. 
-  =, !=, <, >
-  BETWEEN ... AND ...
-  IN(...)
-  NOT
+  `=`, `!=`, `<`, `>`
+  `BETWEEN ... AND ...`
+  `IN(...)`
+  `NOT`
 ### DISTINCT
 `DISTINCT` removes duplicate rows 
 ### ORDER BY
@@ -35,11 +35,11 @@ Removes data given conditions
 
 ### CREATE TABLE 
 takes data types
-  INTEGER, BOOLEAN
-  FLOAT, DOUBLE, REAL
-  CHARACTER(num_chars), VARCHAR(num_chars), TEXT
-  DATE, DATETIME
-  BLOB
+  `INTEGER`, `BOOLEAN`
+  `FLOAT`, `DOUBLE`, `REAL`
+  `CHARACTER(num_chars)`, `VARCHAR(num_chars)`, `TEXT`
+  `DATE`, `DATETIME`
+  `BLOB`
 
 ### ALTER TABLE
 update the database schema bu adding, removing, and modifying columns
