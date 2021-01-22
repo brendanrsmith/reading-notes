@@ -19,3 +19,5 @@ Notes, excerpts, and thoughts from class readings.
 [Read 08 - SQL](sql.md)
 
 [Read 09 - Refactoring](refactoring.md)
+
+[Read 10 - Call Stack}(call-stack.md)
