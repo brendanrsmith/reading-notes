@@ -20,4 +20,4 @@ Notes, excerpts, and thoughts from class readings.
 
 [Read 09 - Refactoring](refactoring.md)
 
-[Read 10 - Call Stack}(call-stack.md)
+[Read 10 - Call Stack](call-stack.md)
