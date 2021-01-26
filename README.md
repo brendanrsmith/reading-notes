@@ -23,3 +23,5 @@ Notes, excerpts, and thoughts from class readings.
 [Read 10 - Call Stack](call-stack.md)
 
 [Read 11 - EJS](ejs.md)
+
+[Read 12 - EJS Partials](partials.md)
