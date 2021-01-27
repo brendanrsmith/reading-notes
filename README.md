@@ -25,3 +25,5 @@ Notes, excerpts, and thoughts from class readings.
 [Read 11 - EJS](ejs.md)
 
 [Read 12 - EJS Partials](partials.md)
+
+[Read 13 - Sending form Data](update-delete.md)
