@@ -28,4 +28,4 @@ Notes, excerpts, and thoughts from class readings.
 
 [Read 13 - Sending form Data](update-delete.md)
 
-[Read 14 - Database Normalization])database-normalization.md)
+[Read 14 - Database Normalization](database-normalization.md)
