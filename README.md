@@ -2,6 +2,7 @@
 Notes, excerpts, and thoughts from class readings.
 [Github.io](https://brendigler.github.io/reading-notes/)
 ## Code 401 - Advanced Software Development in Full-Stack JavaScript
+[Read: 00 - 401 Prep Readings](401-prep-readings.md)
 
 ## Code 301 - Intermediate Software Development
 [Read: 01 - SMACSS and Responsive Web Design](SMACSS.md)
