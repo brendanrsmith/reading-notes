@@ -4,6 +4,8 @@ Notes, excerpts, and thoughts from class readings.
 ## Code 401 - Advanced Software Development in Full-Stack JavaScript
 [Read: 00 - 401 Prep Readings](401-prep-readings.md)
 
+[Read: 01 - Review, Research, Discussion](301-review.md)
+
 ## Code 301 - Intermediate Software Development
 [Read: 01 - SMACSS and Responsive Web Design](SMACSS.md)
 
