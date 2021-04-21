@@ -6,6 +6,8 @@ Notes, excerpts, and thoughts from class readings.
 
 [Read 01 - Review, Research, Discussion](301-review.md)
 
+[Read 02 - Express](express.md)
+
 ## Code 301 - Intermediate Software Development
 [Read 01 - SMACSS and Responsive Web Design](SMACSS.md)
 
