@@ -10,6 +10,8 @@ Notes, excerpts, and thoughts from class readings.
 
 [Read 03 - Express REST API](express-rest-api.md)
 
+[Read 04 - Data Modeling](data-modeling.md)
+
 ## Code 301 - Intermediate Software Development
 [Read 01 - SMACSS and Responsive Web Design](SMACSS.md)
 
