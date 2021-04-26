@@ -12,6 +12,7 @@ Notes, excerpts, and thoughts from class readings.
 
 [Read 04 - Data Modeling](data-modeling.md)
 
+[Read 05 - Authentication](authentication.md)
 ## Code 301 - Intermediate Software Development
 [Read 01 - SMACSS and Responsive Web Design](SMACSS.md)
 
