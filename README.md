@@ -1,7 +1,10 @@
 # Reading Notes
+
 Notes, excerpts, and thoughts from class readings.
 [Github.io](https://brendigler.github.io/reading-notes/)
+
 ## Code 401 - Advanced Software Development in Full-Stack JavaScript
+
 [Read 00 - 401 Prep Readings](401-prep-readings.md)
 
 [Read 01 - Review, Research, Discussion](301-review.md)
@@ -13,7 +16,11 @@ Notes, excerpts, and thoughts from class readings.
 [Read 04 - Data Modeling](data-modeling.md)
 
 [Read 05 - Authentication](authentication.md)
+
+[Read 06 - Bearer Authorization](bearer-authorization.md)
+
 ## Code 301 - Intermediate Software Development
+
 [Read 01 - SMACSS and Responsive Web Design](SMACSS.md)
 
 [Read 02 - Pair Programming](Pair-Programming.md)
