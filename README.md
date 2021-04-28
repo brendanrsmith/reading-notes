@@ -19,6 +19,8 @@ Notes, excerpts, and thoughts from class readings.
 
 [Read 06 - Bearer Authorization](bearer-authorization.md)
 
+[Read 07 - Access Control](acl.md)
+
 ## Code 301 - Intermediate Software Development
 
 [Read 01 - SMACSS and Responsive Web Design](SMACSS.md)
