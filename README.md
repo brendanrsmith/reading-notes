@@ -21,6 +21,8 @@ Notes, excerpts, and thoughts from class readings.
 
 [Read 07 - Access Control](acl.md)
 
+[Read 08 - Event Driven Applications](event-driven-apps.md)
+
 ## Code 301 - Intermediate Software Development
 
 [Read 01 - SMACSS and Responsive Web Design](SMACSS.md)
