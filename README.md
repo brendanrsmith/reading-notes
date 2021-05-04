@@ -23,6 +23,8 @@ Notes, excerpts, and thoughts from class readings.
 
 [Read 08 - Event Driven Applications](event-driven-apps.md)
 
+[Read 09 - Socket IO](socketIO.md)
+
 ## Code 301 - Intermediate Software Development
 
 [Read 01 - SMACSS and Responsive Web Design](SMACSS.md)
