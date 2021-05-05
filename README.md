@@ -25,6 +25,8 @@ Notes, excerpts, and thoughts from class readings.
 
 [Read 09 - Socket IO](socketIO.md)
 
+[Read 10 - Message Queues](message-queues.md)
+
 ## Code 301 - Intermediate Software Development
 
 [Read 01 - SMACSS and Responsive Web Design](SMACSS.md)
