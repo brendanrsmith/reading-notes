@@ -27,6 +27,8 @@ Notes, excerpts, and thoughts from class readings.
 
 [Read 10 - Message Queues](message-queues.md)
 
+[Read 11 - Event Driven Architecture](event-driven-architecture.md)
+
 ## Code 301 - Intermediate Software Development
 
 [Read 01 - SMACSS and Responsive Web Design](SMACSS.md)
