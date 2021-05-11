@@ -29,6 +29,12 @@ Notes, excerpts, and thoughts from class readings.
 
 [Read 11 - Event Driven Architecture](event-driven-architecture.md)
 
+[Read 12 - Trees](trees.md)
+
+[Read 13 - AWS: Cloud Servers](aws.md)
+
+[Read 14 - AWS: S3 and Lambda](s3-lambda.md)
+
 ## Code 301 - Intermediate Software Development
 
 [Read 01 - SMACSS and Responsive Web Design](SMACSS.md)
