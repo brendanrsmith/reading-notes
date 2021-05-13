@@ -37,6 +37,8 @@ Notes, excerpts, and thoughts from class readings.
 
 [Read 15 - AWS: API, Dynamo, and Lambda](aws-api.md)
 
+[Read 16 - AWS: AWS Events](aws-events.md)
+
 ## Code 301 - Intermediate Software Development
 
 [Read 01 - SMACSS and Responsive Web Design](SMACSS.md)
