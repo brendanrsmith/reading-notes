@@ -5,70 +5,72 @@ Notes, excerpts, and thoughts from class readings.
 
 ## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
-[Read 00 - 401 Prep Readings](401-prep-readings.md)
+[Class 00 - 401 Prep Readings](401-prep-readings.md)
 
-[Read 01 - Review, Research, Discussion](301-review.md)
+[Class 01 - Review, Research, Discussion](301-review.md)
 
-[Read 02 - Express](express.md)
+[Class 02 - Express](express.md)
 
-[Read 03 - Express REST API](express-rest-api.md)
+[Class 03 - Express REST API](express-rest-api.md)
 
-[Read 04 - Data Modeling](data-modeling.md)
+[Class 04 - Data Modeling](data-modeling.md)
 
-[Read 05 - Authentication](authentication.md)
+[Class 05 - Authentication](authentication.md)
 
-[Read 06 - Bearer Authorization](bearer-authorization.md)
+[Class 06 - Bearer Authorization](bearer-authorization.md)
 
-[Read 07 - Access Control](acl.md)
+[Class 07 - Access Control](acl.md)
 
-[Read 08 - Event Driven Applications](event-driven-apps.md)
+[Class 08 - Event Driven Applications](event-driven-apps.md)
 
-[Read 09 - Socket IO](socketIO.md)
+[Class 09 - Socket IO](socketIO.md)
 
-[Read 10 - Message Queues](message-queues.md)
+[Class 10 - Message Queues](message-queues.md)
 
-[Read 11 - Event Driven Architecture](event-driven-architecture.md)
+[Class 11 - Event Driven Architecture](event-driven-architecture.md)
 
-[Read 12 - Trees](trees.md)
+[Class 12 - Trees](trees.md)
 
-[Read 13 - AWS: Cloud Servers](aws.md)
+[Class 13 - AWS: Cloud Servers](aws.md)
 
-[Read 14 - AWS: S3 and Lambda](s3-lambda.md)
+[Class 14 - AWS: S3 and Lambda](s3-lambda.md)
 
-[Read 15 - AWS: API, Dynamo, and Lambda](aws-api.md)
+[Class 15 - AWS: API, Dynamo, and Lambda](aws-api.md)
 
-[Read 16 - AWS: AWS Events](aws-events.md)
+[Class 16 - AWS: AWS Events](aws-events.md)
 
-[Read 18 - Component Based UI](component-ui.md)
+[Class 26 - Component Based UI](component-ui.md)
+
+[Class 27 - Props and State](props-state.md)
 
 ## Code 301 - Intermediate Software Development
 
-[Read 01 - SMACSS and Responsive Web Design](SMACSS.md)
+[Class 01 - SMACSS and Responsive Web Design](SMACSS.md)
 
-[Read 02 - Pair Programming](Pair-Programming.md)
+[Class 02 - Pair Programming](Pair-Programming.md)
 
-[Read 03 - Flexbox and Moustache.js](MUSTACHE-and-FLEXBOX.md)
+[Class 03 - Flexbox and Moustache.js](MUSTACHE-and-FLEXBOX.md)
 
-[Read 04 - CSS Grid](css-grid.md)
+[Class 04 - CSS Grid](css-grid.md)
 
-[Read 05 - Heroku](heroku.md)
+[Class 05 - Heroku](heroku.md)
 
-[Read 06 - Node.js](nodeJS.md)
+[Class 06 - Node.js](nodeJS.md)
 
-[Read 07 - APIs](APIs.md)
+[Class 07 - APIs](APIs.md)
 
-[Read 08 - SQL](sql.md)
+[Class 08 - SQL](sql.md)
 
-[Read 09 - Refactoring](refactoring.md)
+[Class 09 - Refactoring](refactoring.md)
 
-[Read 10 - Call Stack](call-stack.md)
+[Class 10 - Call Stack](call-stack.md)
 
-[Read 11 - EJS](ejs.md)
+[Class 11 - EJS](ejs.md)
 
-[Read 12 - EJS Partials](partials.md)
+[Class 12 - EJS Partials](partials.md)
 
-[Read 13 - Sending form Data](update-delete.md)
+[Class 13 - Sending form Data](update-delete.md)
 
-[Read 14 - Database Normalization](database-normalization.md)
+[Class 14 - Database Normalization](database-normalization.md)
 
-[Read 15 - Diversity and Inclusion](Diversity+Inclusion.md)
+[Class 15 - Diversity and Inclusion](Diversity+Inclusion.md)
