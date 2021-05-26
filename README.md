@@ -39,9 +39,11 @@ Notes, excerpts, and thoughts from class readings.
 
 [Class 16 - AWS: AWS Events](aws-events.md)
 
-[Class 26 - Component Based UI](component-ui.md)
+[Class 26 - React: Component Based UI](component-ui.md)
 
-[Class 27 - Props and State](props-state.md)
+[Class 27 - React: Props and State](props-state.md)
+
+[Class 28 - React: Component Composition](component-composition.md)
 
 ## Code 301 - Intermediate Software Development
 
