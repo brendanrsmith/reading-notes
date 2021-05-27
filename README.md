@@ -45,6 +45,8 @@ Notes, excerpts, and thoughts from class readings.
 
 [Class 28 - React: Component Composition](component-composition.md)
 
+[Class 29 - React: Routers](routers.md)
+
 ## Code 301 - Intermediate Software Development
 
 [Class 01 - SMACSS and Responsive Web Design](SMACSS.md)
