@@ -47,6 +47,8 @@ Notes, excerpts, and thoughts from class readings.
 
 [Class 29 - React: Routers](routers.md)
 
+[Class 31 - React: Hooks API](hooks.md)
+
 ## Code 301 - Intermediate Software Development
 
 [Class 01 - SMACSS and Responsive Web Design](SMACSS.md)
