@@ -49,6 +49,8 @@ Notes, excerpts, and thoughts from class readings.
 
 [Class 31 - React: Hooks API](hooks.md)
 
+[Class 32 - React: Custom Hooks](custom-hooks.md)
+
 ## Code 301 - Intermediate Software Development
 
 [Class 01 - SMACSS and Responsive Web Design](SMACSS.md)
