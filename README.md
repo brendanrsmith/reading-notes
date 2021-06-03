@@ -53,6 +53,8 @@ Notes, excerpts, and thoughts from class readings.
 
 [Class 33 - React: Context API](context-api.md)
 
+[Class 34 - React: Login and Auth](react-auth.md)
+
 ## Code 301 - Intermediate Software Development
 
 [Class 01 - SMACSS and Responsive Web Design](SMACSS.md)
