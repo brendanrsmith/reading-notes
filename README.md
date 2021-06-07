@@ -55,6 +55,8 @@ Notes, excerpts, and thoughts from class readings.
 
 [Class 34 - React: Login and Auth](react-auth.md)
 
+[Class 36 - Redux](redux-state.md)
+
 ## Code 301 - Intermediate Software Development
 
 [Class 01 - SMACSS and Responsive Web Design](SMACSS.md)
