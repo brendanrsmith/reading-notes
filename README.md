@@ -55,7 +55,9 @@ Notes, excerpts, and thoughts from class readings.
 
 [Class 34 - React: Login and Auth](react-auth.md)
 
-[Class 36 - Redux](redux-state.md)
+[Class 36 - Redux: State](redux-state.md)
+
+[Class 37 - Redux: Combined Reducers](redux-reducers.md)
 
 ## Code 301 - Intermediate Software Development
 
