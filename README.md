@@ -59,6 +59,8 @@ Notes, excerpts, and thoughts from class readings.
 
 [Class 37 - Redux: Combined Reducers](redux-reducers.md)
 
+[Class 38 - Redux: Asynchronous Actions](redux-async.md)
+
 ## Code 301 - Intermediate Software Development
 
 [Class 01 - SMACSS and Responsive Web Design](SMACSS.md)
