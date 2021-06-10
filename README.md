@@ -61,6 +61,8 @@ Notes, excerpts, and thoughts from class readings.
 
 [Class 38 - Redux: Asynchronous Actions](redux-async.md)
 
+[Class 39 - Redux: Additional Topics](redux-extras.md)
+
 ## Code 301 - Intermediate Software Development
 
 [Class 01 - SMACSS and Responsive Web Design](SMACSS.md)
