@@ -63,6 +63,10 @@ Notes, excerpts, and thoughts from class readings.
 
 [Class 39 - Redux: Additional Topics](redux-extras.md)
 
+[Class 41 - React Native](react-native.md)
+
+[Class 42 - Ethics in Tech](ethics.md)
+
 ## Code 301 - Intermediate Software Development
 
 [Class 01 - SMACSS and Responsive Web Design](SMACSS.md)
