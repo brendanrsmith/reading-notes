@@ -1,7 +1,7 @@
 # Reading Notes
 
 Notes, excerpts, and thoughts from class readings.
-[Github.io](https://brendigler.github.io/reading-notes/)
+[Github.io](https://brendanrsmith.github.io/reading-notes/)
 
 ## Code 401 - Advanced Software Development in Full-Stack JavaScript
 
